@@ -1,0 +1,2 @@
+# dictionary
+ユーザー辞書
